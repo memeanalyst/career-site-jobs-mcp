@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "career-site-jobs": {
+      "url": "https://mcp.apify.com?tools=fetch-actor-details,magnova/career-site-jobs"
+    }
+  }
+}
